@@ -54,19 +54,16 @@ String formattedDate;
 String dayStamp;
 String timeStamp;
 
-// const char *ssid = "Zicore Technologies_EXT";
-// const char *password = "62292723";
-
 const char *ssid = "Rifat";
 const char *password = "rifat674";
 
 // MQTT Credentials
-const char *mqtt_server = "180.92.224.170";
+const char *mqtt_server = "*****";
 // const char* mqtt_server = "test.mosquitto.org";
-const char *mqtt_user_name = "zicoremqtt";
-const char *mqtt_pass = "zicore12!!@@";
-const char *clientID = "DeveloperClient";
-const char *willTopic = "shatarko1003/hub/cameraHubOnlineStatus";
+const char *mqtt_user_name = "***";
+const char *mqtt_pass = "****";
+const char *clientID = "****";
+const char *willTopic = "*****";
 const char *willMessage = "0";
 // const char* modeTopic = "mode";
 int willQoS = 0;
